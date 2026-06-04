@@ -1,0 +1,41 @@
+=== DAFTAR PENYAKIT & GEJALA YANG DIKENALI AI ===
+
+[KATEGORI: PADI]
+- Gejala: padi merah
+  Penyakit: Tungro
+  Solusi: Kendalikan hama wereng hijau.
+
+- Gejala: padi busuk leher
+  Penyakit: Blas (Pyricularia oryzae)
+  Solusi: Semprot fungisida dosis rendah.
+
+[KATEGORI: JAGUNG]
+- Gejala: jagung putih memanjang
+  Penyakit: Bulai
+  Solusi: Cabut tanaman yang terinfeksi agar tidak menular.
+
+[KATEGORI: UMUM / DAUN & BUAH]
+- Gejala: daun bolong
+  Masalah: Hama Ulat / Serangga
+  Solusi: Gunakan pestisida nabati (daun mimba).
+
+- Gejala: daun putih tepung
+  Penyakit: Embun Tepung
+  Solusi: Semprotkan campuran air dan soda kue dosis kecil.
+
+- Gejala: akar bengkak
+  Penyakit: Nematoda Akar
+  Solusi: Berikan nematisida atau perbaiki drainase tanah.
+
+- Gejala: buah busuk hitam
+  Penyakit: Antraknosa
+  Solusi: Kurangi kelembaban dan buang buah yang terinfeksi.
+
+[KATEGORI: DEFISIENSI NUTRISI]
+- Gejala: daun kuning bawah
+  Masalah: Kurang Nitrogen (N)
+  Solusi: Tambahkan pupuk Urea atau kompos.
+
+- Gejala: daun ungu
+  Masalah: Kurang Fosfor (P)
+  Solusi: Tambahkan pupuk SP-36.
